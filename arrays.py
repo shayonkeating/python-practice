@@ -1,1 +1,2 @@
 #arrays
+array = array
